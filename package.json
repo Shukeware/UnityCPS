@@ -1,0 +1,17 @@
+{
+  "name": "com.shukeware.settings",
+  "version": "0.2.0",
+  "displayName": "Project Settings",
+  "description": "Arquivos de configura\u00e7\u00f5es que aparecem no Project Settings agrupadas e podem ser modificadas e colocadas em qualquer pasta dentro de Assets.",
+  "unity": "2022.2",
+  "unityRelease": "6f1",
+  "changelogUrl": "https://www.notion.so/ryushuke/Patch-Note-1034e1d8a8014fc380904af16216665f",
+  "keywords": [
+    "Settings",
+    "Project"
+  ],
+  "author": {
+    "name": "Ryushuke",
+    "email": "ryushuke.dev@gmail.com"
+  }
+}

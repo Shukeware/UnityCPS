@@ -1,0 +1,16 @@
+{
+    "name": "com.shuke.settings.sample",
+    "rootNamespace": "Shuke.Settings",
+    "references": [
+        "GUID:08210065505c0c64dac4fbdcacd5c038"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
